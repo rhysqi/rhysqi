@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rhysqi1
+- 👋 Hi, I’m @rhysqi_
 - 👀 I’m interested in Hacking, Graphic Development, and OS Development
 - 🌱 I’m currently learning about Cryptography and OS Development
 - 💞️ I’m looking to collaborate on ...
