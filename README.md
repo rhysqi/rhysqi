@@ -7,6 +7,7 @@ Hello, i'm Risky allias rhysqi
   <summary>❤️ Favorite Technology</summary>
   
 </details>
+[![github] (https://github.com/rhysqi1/assets/blob/main/OpenGL.png)][1]
 
 <!---
 rhysqi1/rhysqi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
