@@ -7,9 +7,9 @@ Hello, i'm Risky allias rhysqi
   <summary>❤️ Favorite Technology</summary>
   <div>
     <a href="https://www.opengl.org/">
-      <img height="50px" src="https://www.opengl.org/img/OpenGL_100px_June16.png"></a>
+      <img height="50px" src="https://github.com/rhysqi1/assets/blob/main/OpenGL.png"></a>
     <a href="https://www.vulkan.org/">
-      <img height="50px" src="https://www.opengl.org/img/Vulkan_100px_Dec16.png"></a>
+      <img height="50px" src="https://github.com/rhysqi1/assets/blob/main/Vulkan.png"></a>
     <a href="https://www.gtk.org/">
       <img height="62px" src="https://www.gtk.org/assets/img/logo-gtk-sm.png"></a>
     <a href="https://archlinux.org/">
@@ -23,11 +23,11 @@ Hello, i'm Risky allias rhysqi
   <summary>📜 Used Programming Language</summary>
   <br>
   <div>
-    <img height="40px" src="">
-    <img src="">
-    <img src="">
-    <img height="60px" src="">
+    <img height="60px" src="https://github.com/rhysqi1/assets/blob/main/X86_ASM.png">
+    <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710">
+    <img height="90px"src="https://github.com/rhysqi1/assets/blob/main/Java.svg">
     <img height="50px" src="https://docs.python.org/3/_static/py.svg">
+    <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/152px-Gnu-bash-logo.svg.png">
   </div>
 </details>
 
