@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @rhysqi_
+Hello, i'm Risky allias rhysqi
+
 - 👀 I’m interested in Hacking, Graphic Development, and OS Development
 - 🌱 I’m currently learning about Graphic Programming and OS Development
 
