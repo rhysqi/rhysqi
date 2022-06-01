@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhysqi_
 - 👀 I’m interested in Hacking, Graphic Development, and OS Development
-- 🌱 I’m currently learning about Cryptography and OS Development
+- 🌱 I’m currently learning about Graphic Programming and OS Development
 
 <!---
 rhysqi1/rhysqi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
