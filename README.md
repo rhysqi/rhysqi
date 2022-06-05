@@ -1,4 +1,4 @@
-Hello, i'm Risky AKA rhysqi
+Hello, i'm Risky alias rhysqi
 
 - 👀 I’m interested in Hacking, Graphic Development, and OS Development
 - 🌱 I’m currently learning about Graphic Programming and OS Development
