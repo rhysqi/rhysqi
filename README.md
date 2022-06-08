@@ -4,7 +4,7 @@ Hello, i'm Risky alias rhysqi
 - 🌱 I’m currently learning about Graphic Programming and OS Development
 
 <details>
-  <summary>❤️ Favorite Technology</summary>
+  <summary>❤️ Favorite Technology and API</summary>
   <div>
     <a href="https://www.opengl.org/">
       <img height="50px" src="https://github.com/rhysqi1/assets/blob/main/OpenGL.png"></a>
