@@ -8,6 +8,8 @@ Hello, i'm Risky alias rhysqi
   <div>
     <a href="https://www.opengl.org/">
       <img height="50px" src="https://github.com/rhysqi1/assets/blob/main/OpenGL.png"></a>
+    <a href="https://www.openal.org/">
+      <img height="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/OpenAL_logo.svg/200px-OpenAL_logo.svg.png"></a>
     <a href="https://www.vulkan.org/">
       <img height="50px" src="https://github.com/rhysqi1/assets/blob/main/Vulkan.png"></a>
     <a href="https://www.gtk.org/">
