@@ -4,28 +4,6 @@ Hello, i'm Risky alias rhysqi
 - 🌱 I’m currently learning about Graphic Programming and OS Development
 
 <details>
-  <summary>❤️ Favorite Technology and API</summary>
-  <div>
-    <a href="https://www.opengl.org/">
-      <img height="50px" src="https://github.com/rhysqi1/assets/blob/main/OpenGL.png"></a>
-    <a href="https://www.openal.org/">
-      <img height="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/OpenAL_logo.svg/200px-OpenAL_logo.svg.png"></a>
-    <a href="https://www.vulkan.org/">
-      <img height="50px" src="https://github.com/rhysqi1/assets/blob/main/Vulkan.png"></a>
-    <a href="https://www.gtk.org/">
-      <img height="62px" src="https://www.gtk.org/assets/img/logo-gtk-sm.png"></a>
-    <a href="https://www.x.org">
-      <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/X.Org_Logo.svg/1200px-X.Org_Logo.svg.png"></a>
-    <a href="https://archlinux.org/">
-      <img height="50px" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"></a>
-    <a href="https://ghidra-sre.org/">
-      <img height="50px" src="https://ghidra-sre.org/images/GHIDRA_1.png"></a>
-     <a href="https://www.freebsd.org">
-      <img height="50px" src="https://blog.armsolusi.com/wp-content/uploads/2020/01/FreeBSD.png"></a>
-  </div>
-</details>
-
-<details>
   <summary>📜 Used Programming Language</summary>
   <br>
   <div>
