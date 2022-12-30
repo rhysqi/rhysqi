@@ -12,7 +12,6 @@ Hello, i'm Risky alias rhysqi
     <img height="60px" src="https://github.com/rhysqi1/assets/blob/main/X86_ASM.png">
     <img height="90px" src="https://github.com/rhysqi1/assets/blob/main/Java.svg">
     <img height="50px" src="https://docs.python.org/3/_static/py.svg">
-    <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/152px-Gnu-bash-logo.svg.png">
   </div>
 </details>
 
