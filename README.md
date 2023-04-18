@@ -11,7 +11,7 @@ Hello, i'm Risky alias rhysqi
     <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710">
     <img height="60px" src="https://github.com/rhysqi1/assets/blob/main/X86_ASM.png">
     <img height="90px" src="https://github.com/rhysqi1/assets/blob/main/Java.svg">
-    <img height="50px" src="https://docs.python.org/3/_static/py.svg">
+<!--     <img height="50px" src="https://docs.python.org/3/_static/py.svg"> -->
   </div>
 </details>
 
