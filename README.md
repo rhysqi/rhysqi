@@ -5,9 +5,12 @@ Hello, i'm Risky alias rhysqi
 - 🌱 I’m currently learning about Graphic Programming, Audio Programming and OS Development
 
 <br>
-  
-## 📜 Used Programming Language & Technology
+
+<code style="color : blue"> 📜 Used Programming Language & Technology </code>
 - ### Programming Language
+
+- <code style="color : red">text</code>
+
 <div>
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710">
