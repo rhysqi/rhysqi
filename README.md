@@ -10,8 +10,8 @@ Hello, I'm Risky alias rhysqi
  ## 📜 Used Programming Language & Technology
 
 - ### Programming Language
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-2e3a96?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0a85cf?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-black?style=for-the-badge&logo=x86-64&logoColor=green)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
