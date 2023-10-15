@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 Hello, I'm Risky alias rhysqi
 
 - 👀 I’m interested in Hacking, Graphic Development, Audio Engineer, System Engineer, Intercommunication, and OS Development
@@ -12,6 +12,8 @@ Hello, I'm Risky alias rhysqi
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-black?style=for-the-badge&logo=x86-64&logoColor=green)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+<br>
 
 - ### Technology
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
