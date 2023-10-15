@@ -7,7 +7,7 @@ Hello, I'm Risky alias rhysqi
 #
 <span style="color:green;"> 📜 Used Programming Language & Technology </span>
 
-- ### Programming Language
+- <h3 text-decoration="none"> Programming Language </h3>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-black?style=for-the-badge&logo=x86-64&logoColor=green)
