@@ -6,7 +6,7 @@ Hello, i'm Risky alias rhysqi
 
 <br>
 
-<h3 style="color:blue;"> 📜 Used Programming Language & Technology </h3>
+<h3 style="color:green;"> 📜 Used Programming Language & Technology </h3>
 
 - ### Programming Language
 
