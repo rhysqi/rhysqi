@@ -6,10 +6,9 @@ Hello, i'm Risky alias rhysqi
 
 <br>
 
-<code style="color : blue"> 📜 Used Programming Language & Technology </code>
-- ### Programming Language
+<h3 style="color:blue;"> 📜 Used Programming Language & Technology </h3>
 
-- <code style="color : red">text</code>
+- ### Programming Language
 
 <div>
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
