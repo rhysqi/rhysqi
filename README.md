@@ -4,7 +4,7 @@ Hello, i'm Risky alias rhysqi
 - 👀 I’m interested in Hacking, Graphic Development, Audio Engineer, System Engineer, Intercommunication and OS Development
 - 🌱 I’m currently learning about Graphic Programming, Audio Programming and OS Development
 
-<br>
+#
 
 <h3 style="color:green;"> 📜 Used Programming Language & Technology </h3>
 
