@@ -26,7 +26,7 @@ Hello, I'm Risky alias rhysqi
 ![SPIR-V](https://img.shields.io/badge/SPIR--V-0049a4?style=for-the-badge&logo=xorg&logoColor=white)
 
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-%234D4D4D?style=for-the-badge&logo=freebsd&logoColor=red&color=white)
-![FreeBSD](https://img.shields.io/badge/LinuxMint-%66af3d?style=for-the-badge&logo=linux&logoColor=black)
+![LinuxMint](https://img.shields.io/badge/LinuxMint-%66af3d?style=for-the-badge&logo=linux&logoColor=black&color=66af3d)
 
 
 <!---
