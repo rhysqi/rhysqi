@@ -20,11 +20,13 @@ Hello, I'm Risky alias rhysqi
 ![NVCC](https://img.shields.io/badge/NVCC-6eeb34?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-555555?style=for-the-badge&logo=gnu-make&logoColor=white)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-%234D4D4D?style=for-the-badge&logo=freebsd&logoColor=red&color=white)
 
 ![OpenGL](https://img.shields.io/badge/opengl-52829f?style=for-the-badge&logo=opengl&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/vulkan-a7152b?style=for-the-badge&logo=vulkan&logoColor=white)
 ![SPIR-V](https://img.shields.io/badge/SPIR--V-0049a4?style=for-the-badge&logo=xorg&logoColor=white)
+
+![FreeBSD](https://img.shields.io/badge/FreeBSD-%234D4D4D?style=for-the-badge&logo=freebsd&logoColor=red&color=white)
+![FreeBSD](https://img.shields.io/badge/LinuxMint-%66af3d?style=for-the-badge&logo=linux&logoColor=black)
 
 
 <!---
