@@ -7,7 +7,7 @@ Hello, I'm Risky alias rhysqi
 # 
 <br>
 
- ## 📜 Used Programming Language & Technology
+ ## 📜 Programming Language & Technology Used
 
 - ### Programming Language
 ![C](https://img.shields.io/badge/C-2e3a96?style=for-the-badge&logo=c&logoColor=white)
