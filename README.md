@@ -15,7 +15,7 @@ Hello, I'm Risky alias rhysqi
 ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-black?style=for-the-badge&logo=x86-64&logoColor=green)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-- ### Technology
+- ### Technology Used
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
 ![NVCC](https://img.shields.io/badge/NVCC-6eeb34?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
