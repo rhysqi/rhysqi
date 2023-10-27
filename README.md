@@ -1,5 +1,5 @@
 # Introduction
-Hello, I'm Risky alias rhysqi
+Hello, I'm Risky
 
 - 👀 I’m interested in Hacking, Graphic Development, Audio Engineer, System Engineer, Intercommunication, and OS Development
 - 🌱 I’m currently learning about Graphic Programming, Audio Programming, and OS Development
