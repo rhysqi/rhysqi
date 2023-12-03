@@ -7,12 +7,12 @@ Hello, I'm Risky
 # 
 <!--START_SECTION:waka-->
 
-```c
+```c, cpp, makefile, assembly
 C++           11 hrs 28 mins  XXXXXXXXXXXX-------------   48.90 %
 C             6 hrs 15 mins   XXXXXXX------------------   26.64 %
-Makefile       3 hrs 53 mins   XXXX---------------------   16.54 %
+Makefile      3 hrs 53 mins   XXXX---------------------   16.54 %
 Assembly      1 hr 46 mins    XX-----------------------   07.54 %
-Text          2 mins          -------------------------   00.15 %
+JSON          1 min           -------------------------   00.11 %
 ```
 
 <!--END_SECTION:waka-->
