@@ -5,6 +5,9 @@ Hello, I'm Risky
 - 🌱 I’m currently learning about Graphic Programming, Audio Programming, and OS Development
 
 # 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 <br>
 
  ## 📜 Programming Language & Technology Used
