@@ -6,6 +6,15 @@ Hello, I'm Risky
 
 # 
 <!--START_SECTION:waka-->
+
+```txt
+C++           11 hrs 28 mins  ████████████▒░░░░░░░░░░░░   48.90 %
+C             6 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
+Makefile      3 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+Assembly      1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+Text          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+```
+
 <!--END_SECTION:waka-->
 
 <br>
