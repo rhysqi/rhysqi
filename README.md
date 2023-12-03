@@ -6,8 +6,8 @@ Hello, I'm Risky
 
 # 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
+
 <br>
 
  ## 📜 Programming Language & Technology Used
