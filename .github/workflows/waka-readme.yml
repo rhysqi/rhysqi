@@ -19,5 +19,5 @@ jobs:
           CODE_LANG: c, cpp, assembly, llvm, makefile
           LANG_COUNT: 5
           STOP_AT_OTHER: true
-          BLOCKS: -X
+          BLOCKS: -=xX
           config_padding: 0, 8 + 1%
