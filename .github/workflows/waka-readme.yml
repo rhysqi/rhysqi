@@ -18,5 +18,5 @@ jobs:
           IGNORED_LANGUAGES: Text, text, txt, json, other, html, js, css
           CODE_LANG: assembly
           LANG_COUNT: 4
-          STOP_AT_OTHER: true
-          BLOCKS: -X-
+          BLOCKS: _-xX
+          STOP_AT_OTHER: false
