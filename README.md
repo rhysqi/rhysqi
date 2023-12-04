@@ -1,8 +1,8 @@
 # Introduction
 Hello, I'm Risky
 
-- 👀 I’m interested in Hacking, Graphic Development, Audio Engineer, System Engineer, Intercommunication, and OS Development
-- 🌱 I’m currently learning about Graphic Programming, Audio Programming, and OS Development
+- 🖥️ I’m interested in Hacking, Graphic Development, Audio Engineer, System Engineer, Intercommunication, and OS Development
+- ⚙️ I’m currently learning about Graphic Programming, Audio Programming, and OS Development
 
 #
 <!--START_SECTION:waka-->
