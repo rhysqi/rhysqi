@@ -15,9 +15,8 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          IGNORED_LANGUAGES: text, tex, txt, json, other, html, js, css
-          CODE_LANG: c, cpp, assembly, llvm, makefile
+          IGNORED_LANGUAGES: text, TeX, txt, json, other, html, js, css, makefile
+          CODE_LANG: c, cpp, assembly, llvm
           LANG_COUNT: 5
           STOP_AT_OTHER: true
-          BLOCKS: -=xX
-          config_padding: 0, 8 + 1%
+          BLOCKS: -X-
