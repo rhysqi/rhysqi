@@ -14,7 +14,6 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
-          SHOW_TITLE: true
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           IGNORED_LANGUAGES: TXT, JSON, 
           CODE_LANG: assembly
@@ -22,5 +21,5 @@ jobs:
           BLOCKS: -0
           STOP_AT_OTHER: true
           TIME_RANGE: 7_days
-          SHOW_TIME: true
-          SHOW_TOTAL: true
+          SHOW_TIME: false
+          SHOW_TOTAL: false
