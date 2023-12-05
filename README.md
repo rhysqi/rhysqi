@@ -10,6 +10,7 @@ Hello, I'm Risky
 ```assembly
 C++           12 hrs          XXXXXXXXXXXXX============   50.07 %
 C             6 hrs 15 mins   XXXXXXX==================   26.07 %
+Makefile      3 hrs 46 mins   XXXX=====================   15.72 %
 Assembly      1 hr 46 mins    XX=======================   07.38 %
 ```
 
