@@ -8,9 +8,9 @@ Hello, I'm Risky
 <!--START_SECTION:waka-->
 
 ```assembly
-C++           11 hrs 28 mins  XXXXXXXXXXXX=============   48.90 %
-C             6 hrs 15 mins   XXXXXXX==================   26.64 %
-Assembly      1 hr 46 mins    XX=======================   07.54 %
+C++           12 hrs          XXXXXXXXXXXXX============   50.07 %
+C             6 hrs 15 mins   XXXXXXX==================   26.07 %
+Assembly      1 hr 46 mins    XX=======================   07.38 %
 ```
 
 <!--END_SECTION:waka-->
