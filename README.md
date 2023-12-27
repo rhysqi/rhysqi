@@ -8,10 +8,10 @@ Hello, I'm Risky
 <!--START_SECTION:waka-->
 
 ```assembly
-C             5 hrs 10 mins   XXXXXXXXXXXXXXXXXXX======   74.21 %
-C++           1 hr 43 mins    XXXXXX===================   24.70 %
-Makefile      3 mins          =========================   00.83 %
-Objective-C   0 secs          =========================   00.22 %
+C             5 hrs 11 mins   XXXXXXXXXXXXXXXX=========   62.90 %
+C++           2 hrs 53 mins   XXXXXXXXX================   35.03 %
+Makefile      9 mins          =========================   01.85 %
+Objective-C   0 secs          =========================   00.19 %
 Markdown      0 secs          =========================   00.02 %
 ```
 
