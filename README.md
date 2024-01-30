@@ -8,10 +8,11 @@ Hello, I'm Risky
 <!--START_SECTION:waka-->
 
 ```assembly
-C             28 hrs 32 mins  XXXXXXXXXXXXXXX==========   61.95 %
-Makefile      10 hrs 45 mins  XXXXXX===================   23.35 %
-C++           4 hrs 59 mins   XXX======================   10.83 %
-Other         1 hr 28 mins    X========================   03.21 %
+C             28 hrs 53 mins  XXXXXXXXXXXXXX===========   55.50 %
+Makefile      11 hrs 22 mins  XXXXX====================   21.84 %
+C++           5 hrs 45 mins   XXX======================   11.06 %
+HTML          2 hrs 41 mins   X========================   05.18 %
+Other         1 hr 28 mins    X========================   02.84 %
 ```
 
 <!--END_SECTION:waka-->
