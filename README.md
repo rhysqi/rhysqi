@@ -8,11 +8,11 @@ Hello, I'm Risky
 <!--START_SECTION:waka-->
 
 ```assembly
-TypeScript    15 hrs 36 mins  XXXXXXXXXXXXXXXXXXXXXXX==   93.01 %
-C++           54 mins         X========================   05.41 %
-TSConfig      5 mins          =========================   00.50 %
-JavaScript    4 mins          =========================   00.43 %
-Cuda          2 mins          =========================   00.22 %
+TypeScript    12 hrs 31 mins  XXXXXXXXXXXXXXXXXXXXXXX==   91.07 %
+C++           57 mins         XX=======================   07.00 %
+TSConfig      5 mins          =========================   00.61 %
+JavaScript    4 mins          =========================   00.53 %
+Cuda          2 mins          =========================   00.27 %
 ```
 
 <!--END_SECTION:waka-->
