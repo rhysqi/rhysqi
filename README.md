@@ -8,11 +8,11 @@ Hello, I'm Risky
 <!--START_SECTION:waka-->
 
 ```assembly
-TypeScript      3 hrs 49 mins   XXXXXXXXX================   35.15 %
-C#              3 hrs 16 mins   XXXXXXXX=================   30.08 %
-XAML            2 hrs 55 mins   XXXXXXX==================   26.80 %
-Binary          22 mins         X========================   03.45 %
-WiX Installer   10 mins         =========================   01.66 %
+TypeScript      3 hrs 49 mins   XXXXXXXXXXX==============   43.54 %
+XAML            2 hrs 36 mins   XXXXXXX==================   29.66 %
+C#              56 mins         XXX======================   10.81 %
+C++             30 mins         X========================   05.79 %
+Java            19 mins         X========================   03.76 %
 ```
 
 <!--END_SECTION:waka-->
