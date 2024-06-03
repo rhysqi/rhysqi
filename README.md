@@ -8,11 +8,11 @@ Hello, I'm Risky
 <!--START_SECTION:waka-->
 
 ```assembly
-WiX Installer   3 hrs 50 mins   XXXXXXXXXX===============   40.63 %
-C++             1 hr 32 mins    XXXX=====================   16.28 %
-XAML            1 hr 20 mins    XXXX=====================   14.23 %
-Binary          1 hr 7 mins     XXX======================   11.86 %
-C#              1 hr 1 min      XXX======================   10.88 %
+WiX Installer   3 hrs 50 mins   XXXXXXXXXX===============   39.69 %
+C++             1 hr 32 mins    XXXX=====================   15.90 %
+XAML            1 hr 20 mins    XXX======================   13.91 %
+C#              1 hr 14 mins    XXX======================   12.94 %
+Binary          1 hr 7 mins     XXX======================   11.58 %
 ```
 
 <!--END_SECTION:waka-->
