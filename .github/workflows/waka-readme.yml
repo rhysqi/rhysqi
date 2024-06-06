@@ -17,7 +17,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           IGNORED_LANGUAGES: TXT, JSON
           CODE_LANG: assembly
-          LANG_COUNT: 5
+          LANG_COUNT: 7
           BLOCKS: =X
           STOP_AT_OTHER: true
           TIME_RANGE: 7_days
