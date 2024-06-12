@@ -8,13 +8,13 @@ Hello, I'm Risky
 <!--START_SECTION:waka-->
 
 ```assembly
-XAML              6 hrs 29 mins   XXXXXXX==================   26.72 %
-NSIS              5 hrs 21 mins   XXXXXX===================   22.02 %
-C#                5 hrs 2 mins    XXXXX====================   20.76 %
-C++               2 hrs 34 mins   XXX======================   10.59 %
-WiX Installer     2 hrs 8 mins    XX=======================   08.79 %
-Binary            1 hr 7 mins     X========================   04.65 %
-Other             47 mins         X========================   03.28 %
+C#                6 hrs 38 mins   XXXXXXX==================   29.02 %
+XAML              6 hrs 28 mins   XXXXXXX==================   28.25 %
+NSIS              4 hrs 46 mins   XXXXX====================   20.87 %
+C++               2 hrs 34 mins   XXX======================   11.25 %
+Binary            1 hr 9 mins     X========================   05.09 %
+Erlang            30 mins         X========================   02.23 %
+Other             25 mins         =========================   01.86 %
 ```
 
 <!--END_SECTION:waka-->
