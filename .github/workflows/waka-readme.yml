@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # runs every 12 hours
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   update-readme:
@@ -17,9 +17,9 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           IGNORED_LANGUAGES: TXT, JSON
           CODE_LANG: assembly
-          LANG_COUNT: 3
+          LANG_COUNT: 7
           BLOCKS: =X
           STOP_AT_OTHER: true
           TIME_RANGE: 7_days
           SHOW_TIME: true
-          SHOW_TOTAL: false
+          SHOW_TOTAL: true
