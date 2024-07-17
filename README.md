@@ -8,15 +8,15 @@ Hello, I'm Risky
 <!--START_SECTION:waka-->
 
 ```assembly
-Total Time: 26 hrs 40 mins
+Total Time: 28 hrs 13 mins
 
-C#                 9 hrs 22 mins   XXXXXXXXX================   35.12 %
-LLVM               5 hrs 3 mins    XXXXX====================   18.98 %
-C                  3 hrs 46 mins   XXXX=====================   14.15 %
-C++                3 hrs 8 mins    XXX======================   11.78 %
-JSON               1 hr 15 mins    X========================   04.69 %
-Binary             1 hr 8 mins     X========================   04.29 %
-XAML               1 hr 3 mins     X========================   04.00 %
+C#                 9 hrs 13 mins   XXXXXXXX=================   32.65 %
+C                  5 hrs 36 mins   XXXXX====================   19.85 %
+LLVM               5 hrs 4 mins    XXXX=====================   17.95 %
+C++                3 hrs 14 mins   XXX======================   11.49 %
+JSON               1 hr 15 mins    X========================   04.43 %
+Binary             1 hr 8 mins     X========================   04.05 %
+Assembly           51 mins         X========================   03.03 %
 ```
 
 <!--END_SECTION:waka-->
