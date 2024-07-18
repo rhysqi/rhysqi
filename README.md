@@ -28,7 +28,7 @@ Makefile           27 mins         =========================   01.62 %
 - ### Programming Language
 ![C](https://img.shields.io/badge/C-2e3a96?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0a85cf?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![x86 Assembly](https://img.shields.io/badge/x86_Assembly-black?style=for-the-badge&logo=x86-64&logoColor=green)
+![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge&logo=x86-64&logoColor=green)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 - ### Technology Used
@@ -42,7 +42,7 @@ Makefile           27 mins         =========================   01.62 %
 ![SPIR-V](https://img.shields.io/badge/SPIR--V-0049a4?style=for-the-badge&logo=xorg&logoColor=white)
 
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-%234D4D4D?style=for-the-badge&logo=freebsd&logoColor=red&color=white)
-![LinuxMint](https://img.shields.io/badge/LinuxMint-%66af3d?style=for-the-badge&logo=linux&logoColor=black&color=66af3d)
+![Windows](https://img.shields.io/badge/Windows-%66af3d?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAAAM1BMVEUAeNT///8AcdJon98AddNEi9nO3vO80u8ygtcAbNFknd48hNh8rOPa5/a40O4netVzpeGI/GSPAAABK0lEQVR4nO3XS2oDURAEwSfJHlt/3f+03nn2goZERFygyF33WrOOp8O/03F4bJqYKjFVYqrEVImpElMlpkpMlZgqMVViqsRUiakSUyWmSkyVmCoxVWKqxFSJqRJTJaZKTJWYKjFVYqrEVImpElMlpkpMlZgqMVViqsRUiakSUyWmSkyVmCoxVWKqxLzta9b5ssdczsNj63vW9bbH3K7DY2sbdt9j7tNb6/BBxFSJqRJTJaZq/cx6bPvW9hgeW7+znq895vUcHvusq3mY56xKTJWYKjFVYqrEVImpElMlpkpMlZgqMVViqsRUiakSUyWmSkyVmCoxVWKqxFSJqRJTJaZKTJWYKjFVYqrEVImpElMlpkpMlZgqMVViqsRUiakSUyWmSkyVmCox7/oDYagvfxRstWkAAAAASUVORK5CYII=&logoColor=blue&color=white)
 
 
 <!---
