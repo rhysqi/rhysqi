@@ -25,7 +25,7 @@ Makefile           27 mins         =========================   01.62 %
 
  ## 📜 Programming Language & Technology Used
 
-- ### Programming Language
+- ### Main Programming Language
 ![C](https://img.shields.io/badge/C-2e3a96?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0a85cf?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge&logo=x86-64&logoColor=green)
@@ -44,6 +44,8 @@ Makefile           27 mins         =========================   01.62 %
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-%234D4D4D?style=for-the-badge&logo=freebsd&logoColor=red&color=white)
 ![Windows](https://img.shields.io/badge/Windows-%66af3d?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAAAM1BMVEUAeNT///8AcdJon98AddNEi9nO3vO80u8ygtcAbNFknd48hNh8rOPa5/a40O4netVzpeGI/GSPAAABK0lEQVR4nO3XS2oDURAEwSfJHlt/3f+03nn2goZERFygyF33WrOOp8O/03F4bJqYKjFVYqrEVImpElMlpkpMlZgqMVViqsRUiakSUyWmSkyVmCoxVWKqxFSJqRJTJaZKTJWYKjFVYqrEVImpElMlpkpMlZgqMVViqsRUiakSUyWmSkyVmCoxVWKqxLzta9b5ssdczsNj63vW9bbH3K7DY2sbdt9j7tNb6/BBxFSJqRJTJaZq/cx6bPvW9hgeW7+znq895vUcHvusq3mY56xKTJWYKjFVYqrEVImpElMlpkpMlZgqMVViqsRUiakSUyWmSkyVmCoxVWKqxFSJqRJTJaZKTJWYKjFVYqrEVImpElMlpkpMlZgqMVViqsRUiakSUyWmSkyVmCox7/oDYagvfxRstWkAAAAASUVORK5CYII=&logoColor=blue&color=white)
 
+- ### Other Technologies
+![dotnet](https://img.shields.io/badge/.NET-%234D4D4D?style=for-the-badge&logo=dotnet&logoColor=white&color=5027d5)
 
 <!---
 rhysqi1/rhysqi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
