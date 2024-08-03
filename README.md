@@ -1,8 +1,6 @@
 # Introduction
-Hello, I'm Risky
-
-- 🖥️ I’m interested in Graphic Development, Audio Engineer, System Engineer, Intercommunication, and OS Development
-- ⚙️ I’m currently learning about Graphic Programming, Audio Programming, and OS Development
+There is nothing here.
+Just skip this section.
 
 #
 <!--START_SECTION:waka-->
@@ -22,7 +20,6 @@ JSON       1 min           =========================   00.24 %
 <!--END_SECTION:waka-->
  
 <br>
-
  ## 📜 Programming Language & Technology Used
 
 - ### Main Programming Language
