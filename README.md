@@ -6,12 +6,10 @@ Just skip this section.
 <!--START_SECTION:waka-->
 
 ```assembly
-Total Time: 10 hrs 25 mins
+Total Time: 8 hrs 7 mins
 
-C#           5 hrs 21 mins   XXXXXXXXXXXX=============   46.27 %
-C++          1 hr 54 mins    XXXX=====================   16.44 %
-Binary       1 hr 17 mins    XXX======================   11.07 %
-Other        1 hr 9 mins     XXX======================   10.06 %
+C#           5 hrs 17 mins   XXXXXXXXXXXXXX===========   56.94 %
+Other        1 hr 9 mins     XXX======================   12.42 %
 ```
 
 <!--END_SECTION:waka-->
