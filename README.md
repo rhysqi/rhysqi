@@ -1,5 +1,5 @@
 # Introduction
-There is nothing here. <br>
+Too lazy to add introduction. <br>
 Just skip this section.
 
 #
