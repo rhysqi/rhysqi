@@ -6,14 +6,15 @@ Just skip this section.
 <!--START_SECTION:waka-->
 
 ```assembly
-Total Time: 28 hrs 47 mins
+Total Time: 27 hrs 29 mins
 
-C++          20 hrs 8 mins   XXXXXXXXXXXXXXXXX========   69.66 %
-TypeScript   2 hrs 3 mins    XX=======================   07.14 %
-C#           2 hrs           XX=======================   06.94 %
-C            1 hr 34 mins    X========================   05.46 %
-LLVM         55 mins         X========================   03.22 %
-HTML         21 mins         =========================   01.26 %
+C++          18 hrs 12 mins  XXXXXXXXXXXXXXXXX========   66.13 %
+C#           2 hrs 12 mins   XX=======================   07.99 %
+TypeScript   1 hr 50 mins    XX=======================   06.69 %
+Makefile     59 mins         X========================   03.60 %
+LLVM         55 mins         X========================   03.38 %
+Lua          54 mins         X========================   03.27 %
+C            27 mins         =========================   01.69 %
 ```
 
 <!--END_SECTION:waka-->
