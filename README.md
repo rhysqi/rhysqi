@@ -6,15 +6,15 @@ Just skip this section.
 <!--START_SECTION:waka-->
 
 ```assembly
-Total Time: 28 hrs 43 mins
+Total Time: 31 hrs 52 mins
 
-C#           11 hrs 25 mins  XXXXXXXXXX===============   39.78 %
-XAML         7 hrs 55 mins   XXXXXXX==================   27.57 %
-Binary       5 hrs 15 mins   XXXXX====================   18.28 %
-C            1 hr 5 mins     X========================   03.83 %
-Makefile     57 mins         X========================   03.34 %
-C++          42 mins         X========================   02.49 %
-HTML         26 mins         =========================   01.52 %
+C#           13 hrs 49 mins  XXXXXXXXXXX==============   43.37 %
+XAML         6 hrs 51 mins   XXXXX====================   21.54 %
+Binary       6 hrs 9 mins    XXXXX====================   19.30 %
+NSIS         1 hr 52 mins    X========================   05.87 %
+C            1 hr 5 mins     X========================   03.45 %
+Makefile     57 mins         X========================   03.01 %
+C++          42 mins         X========================   02.25 %
 ```
 
 <!--END_SECTION:waka-->
