@@ -6,11 +6,11 @@ Just skip this section.
 <!--START_SECTION:waka-->
 
 ```assembly
-Total Time: 18 hrs
+Total Time: 15 hrs 23 mins
 
-C++             10 hrs 57 mins  XXXXXXXXXXXX=============   47.04 %
-WiX Installer   6 hrs 25 mins   XXXXXXX==================   27.55 %
-Other           5 hrs 17 mins   XXXXXX===================   22.69 %
+C++             10 hrs 57 mins  XXXXXXXXXXXXXXX==========   59.56 %
+WiX Installer   3 hrs 47 mins   XXXXX====================   20.57 %
+Other           3 hrs           XXXX=====================   16.37 %
 ```
 
 <!--END_SECTION:waka-->
