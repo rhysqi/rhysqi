@@ -1,6 +1,6 @@
-# Introduction
-Too lazy to add introduction. <br>
-Just skip this section.
+# 👋 Introduction
+
+Hi, I’m <b>Risky Akbar</b>, a <b>System Software Engineer</b> with deep expertise in solving complex technical challenges. Over the years, I’ve developed solutions across various domains, including audio, graphics, security, cryptography, networking, and codecs. My work revolves around system-level programming, leveraging system APIs to build high-performance, secure, and reliable software. Whether it’s optimizing hardware interfaces or implementing intricate cryptographic algorithms, I ensure efficiency and precision in every line of code. In addition, I also bring my skills to full-stack web development, crafting seamless solutions across both front-end and back-end systems.
 
 #
 <!--START_SECTION:waka-->
@@ -23,13 +23,13 @@ Other        0 secs          =========================   00.14 %
 
  ## 📜 Programming Language & Technology Used
 
-- ### Main Programming Language
+- ### Favorites Programming Language
 ![C](https://img.shields.io/badge/C-2e3a96?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0a85cf?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge&logo=x86-64&logoColor=green)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-- ### Technology Used
+- ### Favorites Technology Used
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
 ![NVCC](https://img.shields.io/badge/NVCC-6eeb34?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
