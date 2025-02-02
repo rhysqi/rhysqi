@@ -2,7 +2,7 @@
 
 Hi, I’m <b>Risky Akbar</b>, a <b>System Software Engineer</b> with deep expertise in solving complex technical challenges. Over the years, I’ve developed solutions across various domains, including audio, graphics, security, cryptography, networking, and codecs. My work revolves around system-level programming, leveraging system APIs to build high-performance, secure, and reliable software. Whether it’s optimizing hardware interfaces or implementing intricate cryptographic algorithms, I ensure efficiency and precision in every line of code. In addition, I also bring my skills to full-stack web development, crafting seamless solutions across both front-end and back-end systems.
 
-#
+# Weekly
 <!--START_SECTION:waka-->
 
 ```assembly
