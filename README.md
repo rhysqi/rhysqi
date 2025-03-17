@@ -41,7 +41,7 @@ Other      0 secs          =========================   00.09 %
 
 - ### Other Technologies
 ![dotnet](https://img.shields.io/badge/.NET-%234D4D4D?style=for-the-badge&logo=dotnet&logoColor=white&color=5027d5)
-
+![NSIS](https://img.shields.io/badge/NSIS-%ffffffff?style=for-the-badge&logo=nsis&logoColor=white&color=cc372d)
 <!---
 rhysqi1/rhysqi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
