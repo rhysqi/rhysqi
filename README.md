@@ -26,11 +26,11 @@ CSS          17 mins         X========================   02.35 %
 ![C](https://img.shields.io/badge/C-2e3a96?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0a85cf?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge&logo=x86-64&logoColor=green)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+<!-- ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) -->
 
 - ### Favorites Technology Used
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
-![NVCC](https://img.shields.io/badge/NVCC-6eeb34?style=for-the-badge&logo=nvidia&logoColor=white)
+<!-- ![NVCC](https://img.shields.io/badge/NVCC-6eeb34?style=for-the-badge&logo=nvidia&logoColor=white) -->
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-555555?style=for-the-badge&logo=gnu-make&logoColor=white)
 
