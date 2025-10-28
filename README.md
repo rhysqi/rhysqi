@@ -6,14 +6,14 @@ Hi, I’m <b>Risky Akbar</b>, a <b>System Software Engineer</b> with deep expert
 <!--START_SECTION:waka-->
 
 ```assembly
-Total Time: 2 hrs 15 mins
+Total Time: 1 hr 58 mins
 
-TypeScript   46 mins         XXXXXXXXX================   34.01 %
-C#           36 mins         XXXXXXX==================   27.06 %
-C++          27 mins         XXXXX====================   20.35 %
-HTML         23 mins         XXXX=====================   17.36 %
-CSS          1 min           =========================   00.81 %
-HTTP         0 secs          =========================   00.03 %
+TypeScript   46 mins         XXXXXXXXXX===============   38.73 %
+C#           36 mins         XXXXXXXX=================   30.82 %
+HTML         23 mins         XXXXX====================   19.77 %
+C++          11 mins         XX=======================   09.29 %
+CSS          1 min           =========================   00.93 %
+HTTP         0 secs          =========================   00.04 %
 ```
 
 <!--END_SECTION:waka-->
