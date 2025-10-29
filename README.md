@@ -8,9 +8,9 @@ Hi, I’m <b>Risky Akbar</b>, a <b>System Software Engineer</b> with deep expert
 ```assembly
 Total Time: 1 hr 58 mins
 
-TypeScript   46 mins         XXXXXXXXXX===============   38.73 %
-C#           36 mins         XXXXXXXX=================   30.82 %
-HTML         23 mins         XXXXX====================   19.77 %
+TypeScript   46 mins         XXXXXXXXXX===============   38.75 %
+C#           36 mins         XXXXXXXX=================   30.84 %
+HTML         23 mins         XXXXX====================   19.73 %
 C++          11 mins         XX=======================   09.29 %
 CSS          1 min           =========================   00.93 %
 HTTP         0 secs          =========================   00.04 %
