@@ -2,6 +2,32 @@
 
 Hi, I’m <b>Risky Akbar</b>, a <b>System Software Engineer</b> with deep expertise in solving complex technical challenges. Over the years, I’ve developed solutions across various domains, including audio, graphics, security, cryptography, networking, and codecs. My work revolves around system-level programming, leveraging system APIs to build high-performance, secure, and reliable software. Whether it’s optimizing hardware interfaces or implementing intricate cryptographic algorithms, I ensure efficiency and precision in every line of code. In addition, I also bring my skills to full-stack web development, crafting seamless solutions across both front-end and back-end systems.
 
+## 🔧 Core Engineering Expertise
+
+### **System Programming**
+Working directly with Windows API, FreeBSD system interfaces, kernel boundary behavior, DLL hooking, runtime structures, and low-level platform operations.
+
+### **Graphics & Rendering Pipeline**
+Experience with OpenGL, Vulkan, SPIR-V, shader engineering, custom GPU pipelines, texture systems, BC7/KTX workflows, and high-performance UI rendering.
+
+### **Audio & DSP Engineering**
+Real-time WASAPI processing, sndio integration, audio effect pipelines, low-latency streaming, and codec implementation.
+
+### **Networking & Protocol Systems**
+Raw socket programming, packet manipulation, protocol design, secure channel implementation, and optimized backend network services.
+
+### **Cryptography & Security Engineering**
+AES/RSA primitives, hashing, secure container formats, binary protection techniques, and exploit-resistant system API usage.
+
+### **Compiler & Toolchain Development**
+LLVM IR manipulation, custom language utilities, assembly-level development (x86, amd64, NVPTX), and system-oriented build pipelines.
+
+### **Compression / Decompression Systems**
+LZMA, zstd, custom asset packaging, binary format engineering (e.g., Aero Texture Format, PE converters), and optimized data workflows.
+
+### **Runtime & Memory Architecture**
+RAII design, allocator strategies, performance tuning, system-level object models, and low-level memory behavior analysis.
+
 # Weekly
 <!--START_SECTION:waka-->
 
@@ -43,6 +69,7 @@ Other                 0 secs          =========================   00.09 %
 - ### Other Technologies
 ![dotnet](https://img.shields.io/badge/.NET-%234D4D4D?style=for-the-badge&logo=dotnet&logoColor=white&color=5027d5)
 ![NSIS](https://img.shields.io/badge/NSIS-%ffffffff?style=for-the-badge&logo=nsis&logoColor=white&color=cc372d)
+
 <!---
 rhysqi1/rhysqi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
