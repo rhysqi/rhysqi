@@ -34,7 +34,7 @@ RAII design, allocator strategies, performance tuning, system-level object model
 ```assembly
 Total Time: 4 hrs 20 mins
 
-C++          3 hrs 54 mins   XXXXXXXXXXXXXXXXXXXXXX===   89.96 %
+C++          3 hrs 54 mins   XXXXXXXXXXXXXXXXXXXXXX===   89.95 %
 Python       19 mins         XX=======================   07.62 %
 JavaScript   3 mins          =========================   01.40 %
 dosini       1 min           =========================   00.67 %
