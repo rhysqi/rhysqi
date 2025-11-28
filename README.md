@@ -32,13 +32,13 @@ RAII design, allocator strategies, performance tuning, system-level object model
 <!--START_SECTION:waka-->
 
 ```assembly
-Total Time: 4 hrs 20 mins
+Total Time: 4 hrs
 
-C++          3 hrs 54 mins   XXXXXXXXXXXXXXXXXXXXXX===   89.95 %
-Python       19 mins         XX=======================   07.62 %
-JavaScript   3 mins          =========================   01.40 %
-dosini       1 min           =========================   00.67 %
-Other        0 secs          =========================   00.15 %
+C++          3 hrs 35 mins   XXXXXXXXXXXXXXXXXXXXXX===   89.25 %
+Python       19 mins         XX=======================   08.24 %
+JavaScript   3 mins          =========================   01.52 %
+dosini       1 min           =========================   00.72 %
+Other        0 secs          =========================   00.16 %
 ```
 
 <!--END_SECTION:waka-->
