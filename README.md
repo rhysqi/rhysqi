@@ -6,12 +6,12 @@ Hi, I’m <b>Risky Akbar</b>, a <b>System Software Engineer</b> with deep expert
 <!--START_SECTION:waka-->
 
 ```assembly
-Total Time: 1 hr 19 mins
+Total Time: 2 hrs 9 mins
 
-C++        1 hr 15 mins    XXXXXXXXXXXXXXXXXXXXXXXX=   94.97 %
-Markdown   3 mins          X========================   04.20 %
-Makefile   0 secs          =========================   00.75 %
-Text       0 secs          =========================   00.07 %
+C++        2 hrs 5 mins    XXXXXXXXXXXXXXXXXXXXXXXX=   96.89 %
+Markdown   3 mins          X========================   02.60 %
+Makefile   0 secs          =========================   00.46 %
+Text       0 secs          =========================   00.05 %
 ```
 
 <!--END_SECTION:waka-->
