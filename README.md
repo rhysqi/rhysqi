@@ -9,7 +9,7 @@ Hi, I’m <b>Risky Akbar</b>, a <b>System Software Engineer</b> with deep expert
 Total Time: 9 hrs 43 mins
 
 C++        4 hrs 52 mins         XXXXXXXXXXXX=============   49.99 %
-Makefile   2 hrs 30 mins         XXXXXX===================   25.73 %
+Makefile   2 hrs 30 mins         XXXXXX===================   25.74 %
 Markdown   2 hrs 10 mins         XXXXXX===================   22.34 %
 GLSL       6 mins                =========================   01.06 %
 C          3 mins                =========================   00.54 %
