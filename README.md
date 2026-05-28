@@ -8,7 +8,7 @@ Hi, I’m <b>Risky Akbar</b>, a <b>System Software Engineer</b> with deep expert
 ```assembly
 Total Time: 2 hrs 29 mins
 
-C++        2 hrs 28 mins         XXXXXXXXXXXXXXXXXXXXXXXXX   99.96 %
+C++        2 hrs 29 mins         XXXXXXXXXXXXXXXXXXXXXXXXX   99.96 %
 Makefile   0 secs                =========================   00.02 %
 C          0 secs                =========================   00.02 %
 ```
