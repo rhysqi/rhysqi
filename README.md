@@ -8,12 +8,12 @@ Hi, I’m <b>Risky Akbar</b>, a <b>System Software Engineer</b> with deep expert
 ```assembly
 Total Time: 4 hrs 2 mins
 
-Markdown                           2 hrs 11 mins         XXXXXXXXXXXXX============   53.88 %
-C#                                 1 hr 6 mins           XXXXXXX==================   27.46 %
-Microsoft Visual Studio Solution   15 mins               XX=======================   06.41 %
-XML                                13 mins               X========================   05.72 %
-C++                                5 mins                X========================   02.40 %
-Git Config                         4 mins                =========================   01.89 %
+Markdown                           1 hr 40 mins          XXXXXXXXXX===============   41.24 %
+C#                                 1 hr 6 mins           XXXXXXX==================   27.56 %
+C++                                36 mins               XXXX=====================   14.88 %
+Microsoft Visual Studio Solution   15 mins               XX=======================   06.43 %
+XML                                13 mins               X========================   05.74 %
+Git Config                         4 mins                =========================   01.90 %
 Other                              0 secs                =========================   00.40 %
 ```
 
