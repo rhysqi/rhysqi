@@ -8,7 +8,7 @@ Hi, I’m <b>Risky Akbar</b>, a <b>System Software Engineer</b> with deep expert
 ```assembly
 Total Time: 0 secs
 
-Makefile   0 secs                XXXXXXXXXXXXXXXXXXXXXXXXX   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
