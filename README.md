@@ -6,12 +6,15 @@ Hi, I’m <b>Risky Akbar</b>, a <b>System Software Engineer</b> with deep expert
 <!--START_SECTION:waka-->
 
 ```assembly
-Total Time: 6 mins
+Total Time: 23 mins
 
-TypeScript                         5 mins                XXXXXXXXXXXXXXXXXXXXXX===   86.62 %
-TSConfig                           0 secs                XX=======================   07.11 %
-Microsoft Visual Studio Solution   0 secs                X========================   02.86 %
-HTML                               0 secs                =========================   01.56 %
+HTML                               10 mins               XXXXXXXXXXX==============   44.41 %
+TypeScript                         5 mins                XXXXXX===================   25.75 %
+C#                                 5 mins                XXXXXX===================   23.15 %
+Go                                 0 secs                X========================   03.09 %
+TSConfig                           0 secs                X========================   02.09 %
+Microsoft Visual Studio Solution   0 secs                =========================   00.84 %
+CSS                                0 secs                =========================   00.12 %
 ```
 
 <!--END_SECTION:waka-->
