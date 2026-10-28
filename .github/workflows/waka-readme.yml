@@ -20,6 +20,6 @@ jobs:
           LANG_COUNT: 7
           BLOCKS: =X
           STOP_AT_OTHER: true
-          TIME_RANGE: 7_days
+          TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_TOTAL: true
